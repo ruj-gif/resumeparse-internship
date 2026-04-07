@@ -1,1 +1,0 @@
-# resumeparser-internshipallocator
